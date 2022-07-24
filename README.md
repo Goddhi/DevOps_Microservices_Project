@@ -32,7 +32,7 @@
 
     <h4>Step 3: Upload to Docker Hub</h4><br>
 
-    - In the ./upload_docker.sh file, edit the dockerpath (line 8) and change the docker  username to a personalized one <br>
+    - In the ./upload_docker.sh file, edit the dockerpath (line 8) and change the docker  username to a personalized one daredrexel/ml-api <br>
     - To upload to docker hub, run `./upload_docker.sh`<br>
 
     <h4>Step 4: Kubernetes deployment</h4> <br>
